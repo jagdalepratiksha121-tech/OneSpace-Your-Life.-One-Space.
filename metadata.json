@@ -1,0 +1,6 @@
+{
+  "name": "OneSpace — Your Life. One Space.",
+  "description": "All-in-one personal productivity, life organization, digital storage, and progress tracking platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
